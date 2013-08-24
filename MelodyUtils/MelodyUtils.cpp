@@ -8,7 +8,7 @@
  
 */
 
-#include "melodyUtils.h"
+#include "MelodyUtils.h"
 
 #include "Arduino.h"
 #include "pitches.h"
